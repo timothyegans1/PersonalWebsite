@@ -167,6 +167,7 @@ a{
 .project-grid {
   width: calc(50% - 15px); /* Adjust the width as needed, -15px assumes a 15px padding or margin in your intro section. */
   margin: 0 auto; /* Center the grid */
+  margin-top: 80px;
   margin-bottom: 80px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
