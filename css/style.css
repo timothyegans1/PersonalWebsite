@@ -134,6 +134,33 @@ a{
   color: #6C63FF; /* or any color you prefer */
 }
 
+.containerAutoText{ display: inline-block;}
+
+.text{
+  font-size: 50px;
+  font-weight: 600;
+  white-space: nowrap;
+  border-right: 5px solid;
+  overflow: hidden;
+  width: 100%;
+  animation: 
+    typing 2.5s steps(13),
+    cursor .4s step-end infinite alternate;
+}
+
+@keyframes cursor{
+  50%{ border-color: transparent}
+}
+
+@keyframes typing{
+  from { width: 0 }
+}
+
+
+
+
+
+
 
 /* Projects */
 
