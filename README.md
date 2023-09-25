@@ -39,7 +39,7 @@
   <p align="center">
     Welcome to the GitHub repository for my personal website! This site serves as a digital portfolio, offering a glimpse into my professional journey, personal projects, and various interests.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://timothyegans1.github.io/">View Demo</a>
     <br />
     <br />
     <a href="[timothyegans1.github.io](https://timothyegans1.github.io/)">View Demo</a>
