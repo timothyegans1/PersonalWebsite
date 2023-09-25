@@ -37,7 +37,7 @@
 <h3 align="center">My Personal Website</h3>
 
   <p align="center">
-    Welcome to the GitHub repository for my personal website! This site serves as a digital portfolio, offering a glimpse into my professional journey, personal projects, and various interests.
+    Welcome to the GitHub repository for my personal website that I am still in the process of building! This site already has the reserved domain, timothyegans.com and serves as a digital portfolio, offering a glimpse into my professional journey, personal projects, various interests, while also allowing me to put my website out and recieve feedback before I officially deploy it.
     <br />
     <a href="https://timothyegans1.github.io/">View Demo</a>
     <br />
