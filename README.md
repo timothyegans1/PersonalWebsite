@@ -42,7 +42,7 @@
     <a href="https://timothyegans1.github.io/">View Demo</a>
     <br />
     <br />
-    <a href="[timothyegans1.github.io](https://timothyegans1.github.io/)">View Demo</a>
+    <a href="https://timothyegans1.github.io/">View Demo</a>
     ·
     <a href="mailto:timothyegans@gmail.com">Report Bug</a>
     ·
