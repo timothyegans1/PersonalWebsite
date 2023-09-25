@@ -42,11 +42,11 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/timothyegans1/timothyegans1.github.io">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="mailto:timothyegans@gmail.com">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="mailto:timothyegans@gmail.com">Request Feature</a>
   </p>
 </div>
 
@@ -145,9 +145,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/TimothyEgans) - email@email_client.com
+Your Name - [@TimothyEgans](https://twitter.com/TimothyEgans) - timothyegans@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/timothyegans1/timothyegans1.github.io](https://github.com/timothyegans1/timothyegans1.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
